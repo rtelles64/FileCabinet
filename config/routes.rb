@@ -4,4 +4,6 @@ Rails.application.routes.draw do
   # see http://guides.rubyonrails.org/routing.html
   root 'welcome#index'  # this sets our index without having
                         # to type /welcome/index in URL
+
+  resources :docs
 end
