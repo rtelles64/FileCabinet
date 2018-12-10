@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# FileCabinet
+A simple program that stores text documents, a demonstrated use of Rails libraries
+>>>>>>> fc8f6247b7886ebfcc5f5c8e108ed077ae6a7321
